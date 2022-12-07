@@ -10,6 +10,8 @@ Compruebo donde se ha instalado el programa
 
 >>whereis nginx  
 
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/Captura2.PNG)
+
 Compruebo también el estado del servicio  
 
 >>systemctl status nginx  
