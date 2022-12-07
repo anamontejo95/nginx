@@ -16,5 +16,7 @@ Compruebo también el estado del servicio
 
 >>systemctl status nginx  
 
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/Captura3.PNG)
+
 Y por último, veo la página web por defecto desde el navegador  
 
