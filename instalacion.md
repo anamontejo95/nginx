@@ -3,6 +3,8 @@
 Para instalar Nginx usamos el comando  
 
 >>apt install nginx  
+  
+[a!](https://github.com/anamontejo95/nginx/blob/main/imagenes/Captura1.PNG)
 
 Compruebo donde se ha instalado el programa  
 
