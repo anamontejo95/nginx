@@ -20,3 +20,4 @@ Compruebo también el estado del servicio
 
 Y por último, veo la página web por defecto desde el navegador  
 
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/Captura4.PNG)
