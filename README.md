@@ -10,4 +10,4 @@
 
 4.[Casos prácticos]()  
 
-5.[Referencias]()
+5.[Referencias](https://github.com/anamontejo95/nginx/blob/main/referencias.md)
