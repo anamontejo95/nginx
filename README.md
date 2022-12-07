@@ -6,7 +6,7 @@
 
 2.[Comparativa con Apache]()  
 
-3.[Instalación]()  
+3.[Instalación](https://github.com/anamontejo95/nginx/blob/main/instalacion.md)  
 
 4.[Casos prácticos]()  
 
