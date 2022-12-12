@@ -10,3 +10,5 @@ https://learn.microsoft.com/es-es/troubleshoot/developer/webapps/aspnetcore/prac
 
 https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/deploying_different_types_of_servers/configuring-nginx-as-a-web-server-that-provides-different-content-for-different-domains_setting-up-and-configuring-nginx  
 
+https://marketersgroup.es/diferencias-entre-apache-y-nginx/  
+
