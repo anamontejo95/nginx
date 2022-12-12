@@ -9,3 +9,5 @@ La administración y mantenimiento de Apache viene dada por una comunidad de des
 Apahe tiene un solo hilo asociado a una sola conexión y Nginx es capaz de manejar miles de conexiones que se gestionan simultáneamente reduciendo la memoria, aumentando la velocidad y mejorando el rendimiento.  
 Nginx tiene una arquitectura basada en eventos para poder administrar varias solicitudes de clientes permitiendole tener un rendimiento mayor incluso si se trata de un tráfico pesado. Apache no es capaz de esto ya que tiene una arquitectura de subprocesos múltiples que hacen dificil esta escalabilidad.  
 Apache procesa contenido dinámico de forma nativa dentro del propio servidor, Nginx no tiene esta capacidad si no que depende de procesos que se ejecutan externamente.  
+  
+  ![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/Captura9.jpg)
