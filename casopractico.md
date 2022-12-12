@@ -9,3 +9,6 @@ Compruebo cual es mi versión de nginx  con el comando
 Los ficheros de configuración se encuentran en /etc/nginx  
 
 ![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/Captura6.PNG)
+
+Para personalizar la página web por defecto tenemos que ir al fichero index.nginx-debian.html. Lo abrimos con el editor de texto y modificamos la página. Antes de comprobarlo reiniciamos el servicio. 
+
