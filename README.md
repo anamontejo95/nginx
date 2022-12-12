@@ -8,6 +8,6 @@
 
 3.[Instalación](https://github.com/anamontejo95/nginx/blob/main/instalacion.md)  
 
-4.[Casos prácticos]()  
+4.[Casos prácticos](https://github.com/anamontejo95/nginx/blob/main/casopractico.md)  
 
 5.[Referencias](https://github.com/anamontejo95/nginx/blob/main/referencias.md)
