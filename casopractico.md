@@ -12,3 +12,6 @@ Los ficheros de configuración se encuentran en /etc/nginx
 
 Para personalizar la página web por defecto tenemos que ir al fichero index.nginx-debian.html. Lo abrimos con el editor de texto y modificamos la página. Antes de comprobarlo reiniciamos el servicio. 
 
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/Captura7.PNG)  
+
+![a]()
