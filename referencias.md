@@ -12,3 +12,5 @@ https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/de
 
 https://marketersgroup.es/diferencias-entre-apache-y-nginx/  
 
+https://help.clouding.io/hc/es/articles/360019908839-C%C3%B3mo-configurar-un-servidor-de-balanceo-de-carga-Nginx-en-Ubuntu-20-04  
+
