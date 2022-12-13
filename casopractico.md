@@ -84,3 +84,5 @@ Reincio el servicio de nginx y compruebo desde el navegador que está balanceand
 
 ![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/12.PNG)
 
+## Habilitar https  
+
