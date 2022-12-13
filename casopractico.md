@@ -24,12 +24,16 @@ Para esta práctica necesito tres máquinas virtuales. Dos harán de servidores 
 
 En primero lugar, le añado a la máquina una tarjeta de red interna con la IP 192.168.100.10  
 
-![a]()  
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/1.1.PNG)  
 
 Instalo nginx y configuro la página por defecto  
 
-![a]()  
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/1.2.PNG)  
 
 Modifico el fichero /etc/hosts y le añado la página que he creado  
 
-![a]()
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/2.PNG)
+
+Compruebo desde el navegador 
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/2.2.PNG)
