@@ -37,3 +37,21 @@ Modifico el fichero /etc/hosts y le añado la página que he creado
 Compruebo desde el navegador 
 
 ![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/2.2.PNG)
+  
+## Máquina 2 (ana2062)  
+
+Para esta máquina laconfiguración es la misma que para la máquina 1. Añado la tarjeta de red de red interna con la IP 192.168.100.20  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/3.PNG)  
+
+Instalo nginx y configuro la página por defecto  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/4.PNG)  
+
+Modifico el fichero /etc/hosts y le añado la página que he creado   
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/5.PNG)  
+
+Compruebo desde el navegador  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/6.PNG)
