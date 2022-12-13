@@ -55,3 +55,32 @@ Modifico el fichero /etc/hosts y le añado la página que he creado
 Compruebo desde el navegador  
 
 ![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/6.PNG)
+  
+## Máquina 3 (balanceador de carga)  
+
+Para esta máquina, al igual que las otras dos, le añado la tarjeta de red interna con la IP 192.168.100.30  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/8.PNG)  
+
+Instalo nginx. Elimino el archivo de configuración por defecto y creo el nuevo archivo de configuración del balanceador de carga.  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/9.PNG)  
+
+Edito el fichero y le añado los dos servidores  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/13.PNG)
+
+Compruebo la sintaxis con el comando  
+
+>> nginx -t  
+
+Una vez que la sintaxis está correcta, modifico el fichero /etc/hosts añadiendo la IP del balanceador de carga y la página www.ana206.com  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/10.PNG)  
+
+Reincio el servicio de nginx y compruebo desde el navegador que está balanceando la carga.  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/11.PNG)  
+
+![a](https://github.com/anamontejo95/nginx/blob/main/imagenes/12.PNG)
+
