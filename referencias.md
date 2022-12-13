@@ -14,3 +14,4 @@ https://marketersgroup.es/diferencias-entre-apache-y-nginx/
 
 https://help.clouding.io/hc/es/articles/360019908839-C%C3%B3mo-configurar-un-servidor-de-balanceo-de-carga-Nginx-en-Ubuntu-20-04  
 
+https://techexpert.tips/es/nginx-es/habilitar-https-en-nginx/
