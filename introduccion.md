@@ -1,4 +1,4 @@
-# INTRODUCCIÓN  
+# Introducción  
 
 Nginx es un servidor web de código abierto. También es usado como un proxy inverso, caché de HTTP, y balanceador de carga.  
 
